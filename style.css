@@ -4,20 +4,28 @@ background-color: hsl(208,30%,90%);
 }
 
 h1 {
-  font-size: 54px;
+  font-size: 52px;
   text-transform: capitalize;
-  font-weight: normal;
+  font-weight: bold;
   text-align: center;
   letter-spacing: 1px;
   word-spacing: 20px;
-  color:hsl(233.8,35.1%,21.8%); 
+  color: hsl(233.8,35.1%,21.8%); 
 }
 
 h2{
-  font size: 16px;
-  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;
   letter-spacing: 1px;
   word-spacing: 1px;
-  color:hsl(233.8,35.1%,21.8%); 
+  color: hsl(233.8,35.1%,21.8%); 
 }
 
+p{
+  font-size: 18px;
+  font-weight: normal;
+  text-align: justify;
+
+  
+}
