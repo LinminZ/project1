@@ -1,3 +1,23 @@
 body {
-  font-family: "Helvetica Neue", sans-serif;
+font-family: cursive;
+background-color: hsl(208,30%,90%);
 }
+
+h1 {
+  font-size: 54px;
+  text-transform: capitalize;
+  font-weight: normal;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 20px;
+  color:hsl(233.8,35.1%,21.8%); 
+}
+
+h2{
+  font size: 16px;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  color:hsl(233.8,35.1%,21.8%); 
+}
+
