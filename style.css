@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   letter-spacing: 1px;
   word-spacing: 20px;
-  color: hsl(233.8,35.1%,21.8%); 
+  color: hsl(234,35%,24%); 
 }
 
 h2{
@@ -19,13 +19,22 @@ h2{
   text-align: right;
   letter-spacing: 1px;
   word-spacing: 1px;
-  color: hsl(233.8,35.1%,21.8%); 
+  color: hsl(234,35%,22%); 
 }
 
 p{
-  font-size: 18px;
+  font-size: 20px;
   font-weight: normal;
-  text-align: justify;
+  text-align: center;
+  color:hsl(226,18%,25%);
+ 
+}
 
-  
+h3{
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  color: hsl(234,35%,22%); 
 }
