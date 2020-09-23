@@ -1,5 +1,5 @@
 body {
-font-family: cursive;
+font-family: 'Shadows Into Light', cursive;
 background-color: hsl(208,30%,90%);
 }
 
@@ -8,7 +8,7 @@ h1 {
   text-transform: capitalize;
   font-weight: bold;
   text-align: center;
-  letter-spacing: 1px;
+  letter-spacing: 5px;
   word-spacing: 20px;
   color: hsl(234,35%,24%); 
 }
@@ -17,24 +17,26 @@ h2{
   font-size: 20px;
   font-weight: bold;
   text-align: right;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   word-spacing: 1px;
   color: hsl(234,35%,22%); 
 }
 
 p{
+  font-family: 'Architects Daughter', cursive;
   font-size: 20px;
   font-weight: normal;
+  letter-spacing: 1px;
   text-align: center;
-  color:hsl(226,18%,25%);
+  color:hsl(226,18%,40%);
  
 }
 
 h3{
-  font-size: 16px;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 18px;
   font-weight: bold;
   text-align: center;
-  letter-spacing: 1px;
-  word-spacing: 1px;
-  color: hsl(234,35%,22%); 
+  letter-spacing: 0.5px;
+  color: hsl(226,18%,40%); 
 }
